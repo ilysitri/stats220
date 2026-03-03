@@ -8,4 +8,4 @@ A little about me:
 - I am taking STATS 220 because I want to learn R for data/research methods
 - I am interested in learning about SCIENCE
 
-A meme that captures how I currently feel about my university studies is ![](https://tenor.com/en-GB/view/seal-blob-gif-2566568614627375789)
+A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/I55IjoaH-q0AAAAi/seal-blob.gif)
