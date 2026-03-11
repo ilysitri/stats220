@@ -1,6 +1,4 @@
-# stats220
-
-###This is my repo for STATS 220. 
+# stats220 - My repo! 
 
 I'm using:
 * Vim
@@ -8,7 +6,7 @@ I'm using:
 1. **Arch Linux**
 2. *Asahi*
 
-A little about me:
+about me:
 
 - I am undertaking a degree in Psychology
 - I am taking STATS 220 because I want to learn R for data/research methods
@@ -16,4 +14,4 @@ A little about me:
 
 I stream here -> [my twitch!](https://www.twitch.tv/ilysitri)
 
-A meme that captures how I currently feel about my university studies is ![](https://media.tenor.com/I55IjoaH-q0AAAAi/seal-blob.gif)
+Enjoy <3 ![](https://www.lovethispic.com/uploaded_images/361357-Fairy-Good-Morning-Quotes.gif)
