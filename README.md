@@ -3,8 +3,8 @@
 I'm using:
 * Vim
 * R
-1. **Arch Linux**
-2. *Asahi*
+1. **Arch Linux** (suffering)
+2. *Asahi* (more suffering)
 
 ## about me:
 
