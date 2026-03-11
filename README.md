@@ -6,12 +6,13 @@ I'm using:
 1. **Arch Linux**
 2. *Asahi*
 
-about me:
+## about me:
 
-- I am undertaking a degree in Psychology
+- I am a Psych undergrad with a hobby for tinkering with machines <3
 - I am taking STATS 220 because I want to learn R for data/research methods
-- I am interested in learning about SCIENCE
+- From Europe and OCE
 
 I stream here -> [my twitch!](https://www.twitch.tv/ilysitri)
 
-Enjoy <3 ![](https://www.lovethispic.com/uploaded_images/361357-Fairy-Good-Morning-Quotes.gif)
+![](https://www.lovethispic.com/uploaded_images/361357-Fairy-Good-Morning-Quotes.gif)
+Enjoy <3 
